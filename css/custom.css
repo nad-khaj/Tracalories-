@@ -1,0 +1,24 @@
+.btn-primary1 ,  .progress-bar , .bg-primary1{
+    background-color: #4174b7;
+}
+.btn-primary1:hover{
+    background-color: #1c4572;
+}
+
+.btn-secondary1 ,.bg-secondary1 {
+    background-color: #985ba9;
+}
+.btn-secondary1:hover{
+    background-color: #690583;;
+}
+.bg-light1{
+    background-color: #e7daf1;
+}
+.bg-dark1{
+    background-color: #03234f;
+}
+
+
+
+
+
